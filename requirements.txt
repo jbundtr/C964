@@ -1,0 +1,15 @@
+Flask
+h5py<3.0.0
+Keras
+keras-nightly
+Keras-Preprocessing
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+sklearn-pandas
+tensorflow-cpu
+
