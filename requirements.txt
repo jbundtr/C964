@@ -1,0 +1,15 @@
+Flask
+gunicorn
+Keras
+keras-nightly
+Keras-Preprocessing
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+sklearn-pandas
+tensorflow-cpu
+versioned-hdf5
