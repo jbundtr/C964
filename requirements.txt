@@ -1,5 +1,5 @@
 Flask
-h5py<3.0.0
+h5py==2.10.0
 Keras
 keras-nightly
 Keras-Preprocessing
