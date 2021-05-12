@@ -7,7 +7,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from C964.user_code import create_batches, get_pred_stockcode, set_model, prediction_dataframe
+from user_code import create_batches, get_pred_stockcode, set_model, prediction_dataframe
 
 app = Flask(__name__)
 app.secret_key = "ugly_daughters"
