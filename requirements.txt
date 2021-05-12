@@ -1,4 +1,5 @@
 Flask
+gunicorn
 Keras
 keras-nightly
 Keras-Preprocessing
